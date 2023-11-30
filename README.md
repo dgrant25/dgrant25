@@ -1,13 +1,21 @@
 
 <h1>Cybersecurity Projects & Labs</h1>
 
-I am going to write anything and see what happens
-let's see if this looks weird.
-- 👋 Hi, I’m @dgrant25
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+GitHub Summary: Hands-On Cybersecurity Experience Showcase
+
+🔒 Welcome to My Cybersecurity Playground!
+
+As a dedicated cybersecurity enthusiast, I believe in learning by doing. This GitHub repository is a curated collection of my hands-on experience, showcasing a diverse range of labs and projects that highlight my practical skills in the ever-evolving field of cybersecurity.
+
+🚀 What Sets Me Apart:
+
+Real-world Scenarios: Each project is designed to simulate real-world cybersecurity challenges, demonstrating my ability to tackle practical issues organizations face today.
+
+Continuous Learning: A commitment to staying current with the latest threats and technologies is evident in my regularly updated projects. From risk assessments to network analysis, witness my journey of continuous learning.
+
+Tool Proficiency: Explore my proficiency with industry-standard tools such as Wireshark, Linux, and SQL. These tools are not just names on a resume but instruments I confidently wield to secure digital landscapes.
+
 
 
 <!---
